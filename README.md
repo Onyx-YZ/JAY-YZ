@@ -5,7 +5,7 @@
 
 Skills: Lua / React / TypeScript / JS
 
-- 🔭 I’m currently working on OblivionRP 
+- 🔭 I’m currently working on ReactRP 
 - 🌱 I’m currently learning TypeScript & React 
 - 📫 How to reach me: Yozza#0001 
 
