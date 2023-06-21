@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ønyx
+### Hi there 👋, my name is Yozza
 #### I am an experienced FiveM developer with over 4 years of experience in the field. 
 ![I am an experienced FiveM developer with over 4 years of experience in the field. ](https://i.imgur.com/pr4ygOf.png)
 
