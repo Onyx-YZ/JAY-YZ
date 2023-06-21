@@ -12,4 +12,4 @@ Skills: Lua / React / TypeScript / JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yozzaa&show_icons=true&count_private=true)  
 
-[![Profile views](https://gpvc.arturio.dev/[Yozzaa])
+[![Profile views](https://gpvc.arturio.dev/Yozzaa)
