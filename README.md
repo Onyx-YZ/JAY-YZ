@@ -10,6 +10,6 @@ Skills: Lua / React / TypeScript / JS
 - 📫 How to reach me: Ønyx#0001 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JAY-YZ&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yozzaa&show_icons=true&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/JAY-YZ)  
