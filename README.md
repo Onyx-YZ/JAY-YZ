@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yozza
 #### I am an experienced FiveM developer with over 4 years of experience in the field. 
-![I am an experienced FiveM developer with over 4 years of experience in the field. ](https://i.imgur.com/yobC6CA.png)
+![I am an experienced FiveM developer with over 4 years of experience in the field. ](https://i.imgur.com/tJsR1BW.png)
 
 
 Skills: Lua / React / TypeScript / JS
