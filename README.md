@@ -7,7 +7,7 @@ Skills: Lua / React / TypeScript / JS
 
 - 🔭 I’m currently working on ReactRP 
 - 🌱 I’m currently learning TypeScript & React 
-- 📫 How to reach me: Discord - Yozzask 
+- 📫 How to reach me: Discord - Yozzadv 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yozzaa&show_icons=true&count_private=true)  
